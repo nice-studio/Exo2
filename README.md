@@ -1,1 +1,1 @@
-# Exo2
+# Font Family: Exo 2
