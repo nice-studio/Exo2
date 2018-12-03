@@ -15,6 +15,7 @@
 	"bugs": {
 		"url": "https://github.com/nice-studio/Exo2/issues"
 	},
+	"githubpage": "https://nice-studio.github.io/Exo2/",
 	"homepage": "https://github.com/nice-studio/Exo2#readme",
 	"devDependencies": {
 		"grunt": "^1.0.1",
